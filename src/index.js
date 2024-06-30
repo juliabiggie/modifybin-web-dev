@@ -1,4 +1,5 @@
 alert("you did it!");
+console.log("hi");
 
 let typeSplit;
 
