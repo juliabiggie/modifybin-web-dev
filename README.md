@@ -1,2 +1,2 @@
-# webpackconfig
+
 # modifybin-web-dev
